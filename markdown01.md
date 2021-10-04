@@ -24,6 +24,7 @@
 
 # 等寬字
 
-```printf("hello world");
+```
+printf("hello world");
      if(...)
 ```
