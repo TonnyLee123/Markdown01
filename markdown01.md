@@ -15,3 +15,9 @@
 
 # 超連結
 [MD語法教學](https://hackmd.io/@bwMrIJGoSwyHxPVocWmFmw/rJqeVSOrV?type=view)
+
+# 表格
+|姓名|年齡|國籍|性別|
+|---|---|---|---|
+|A|18|台|女|
+|B|20|美|男|
