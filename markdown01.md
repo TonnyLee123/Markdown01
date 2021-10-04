@@ -23,4 +23,5 @@
 |B|20|美|男|
 
 # 等寬字
-`print`
+`print
+hello world`
