@@ -32,6 +32,5 @@ printf("hello world");
 換  
 行  
 在每行後面加2個空白
-
 # 加入圖片
 ![圖片01](./aaaaa.jpg)
