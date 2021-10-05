@@ -34,4 +34,4 @@ printf("hello world");
 在每行後面加2個空白
 
 # 加入圖片
-![圖片1](Markdown01/Screenshot 2021-09-24 195211.jpg)
+![圖片1](Screenshot 2021-09-24 195211.jpg)
